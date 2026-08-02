@@ -12,3 +12,16 @@ A lightweight, zero-cost Python proxy middleware designed to act as an input fir
 1. Clone the repository and install dependencies:
    ```bash
    pip install fastapi uvicorn pydantic
+
+## 🚀 Quick Code Example
+
+Here is how you can use the AI Trust Gateway in your Python project:
+
+```python
+import requests
+
+response = requests.post("http://localhost:8000/inspect-prompt", json={
+    "prompt": "Hello AI, can you help me write some code?"
+})
+
+print(response.json())
