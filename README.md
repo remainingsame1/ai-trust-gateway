@@ -1,5 +1,4 @@
-![AI Trust Gateway Banner]
-[https://github.com/remainingsame1/ai-trust-gateway/blob/main/Screenshot_2026-08-03-00-09-42-91_680d03679600f7af0b4c700c6b270fe7.jpg]
+![AI Trust Gateway Banner](https://raw.githubusercontent.com/remainingsame1/ai-trust-gateway/main/Screenshot_2026-08-03-00-09-42-91_680d03679600f7af0b4c700c6b270e7.jpg)
 
 # AI Trust Gateway 🛡️
 
