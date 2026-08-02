@@ -1,3 +1,6 @@
+![AI Trust Gateway Banner]
+[https://github.com/remainingsame1/ai-trust-gateway/blob/main/Screenshot_2026-08-03-00-09-42-91_680d03679600f7af0b4c700c6b270fe7.jpg]
+
 # AI Trust Gateway 🛡️
 
 A lightweight, zero-cost Python proxy middleware designed to act as an input firewall for LLM applications. It intercepts prompts in real-time to catch prompt injections, jailbreaks, and leaked credentials (like API keys or personal data) before they ever reach an AI model.
