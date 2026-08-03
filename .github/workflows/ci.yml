@@ -22,3 +22,8 @@ jobs:
     - name: Verify syntax
       run: |
         python -m py_compile main.py
+      - name: Install test dependencies
+        run: pip install pytest httpx
+
+      - name: Run unit tests with pytest
+        run: pytest
